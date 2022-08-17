@@ -19,7 +19,7 @@ The cost of acquisition would be relatively low, as drones are cheap to purchase
 
 The cost of removing the drone technology would be insignificant, as drones could be repurposed to complete other tasks, such as distributing fertilisers. Since the ability to operate these drones is an adaptable skill that requires minimal training, it is unlikely that any RegenTech staff would be disadvantaged if drone use was discontinued.
 
-The main differentiating factors between drones and helicopter are that drones are cheaper and can be controlled remotely, meaning that the drone-operator can be off-site and the content can be captured quickly. On the other hand, helicopter use is intensive in both time and cost. The use of drone imaging would allow RegenTech to focus more funding and labour toward editing the captured images and videos to create an immersive visualisation for each prospective client.
+The main differentiating factors between drones and helicopter are that drones are cheap, environmentally-friendly and can be controlled remotely, meaning that the drone-operator can quickly capture content off-site. On the other hand, helicopter use is intensive in both time and cost. The use of drone imaging would allow RegenTech to focus more funding and labour toward editing the captured images and videos to create an immersive visualisation for each prospective client.
 
 Before implementing drone use, all relevant laws and regulations would need to be considered, including privacy issues and maximum permissible height of flight. It is understood that no drone permit would be required for use in the given context.
 
