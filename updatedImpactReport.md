@@ -15,13 +15,13 @@ RegenTech is a private technology company that provides advisory consulting serv
 
 Remote-controlled drones fitted with cameras could be used instead of helicopters at RegenTech for overhead photography and videography. All captured content would be immediately accessible for editing to be conducted by the visualisation team.
 
-The cost of acquisition would be relatively low, as drones are cheap to purchase (depending on the size, quality and the fitted camera). This would be a one-off purchase by RegenTech, and no maintenance would be required (apart from eventual replacement costs). The training involved would be minimal as drones are straightforward to use. Hence there would be a negligible drop in productivity during RegenTech's transition from helicopter to drone use.
+The cost of acquisition would be relatively low, as drones are cheap to purchase (depending on the size, quality and the fitted camera). This would be a one-off purchase by RegenTech, and no maintenance would be required (apart from eventual replacement costs). The training involved would be minimal (likely one half day group training) as drones are straightforward to use. Hence there would be a negligible drop in productivity during RegenTech's transition from helicopter to drone use.
 
 The cost of removing the drone technology would be insignificant, as drones could be repurposed to complete other tasks, such as distributing fertilisers. Since the ability to operate these drones is an adaptable skill that requires minimal training, it is unlikely that any RegenTech staff would be disadvantaged if drone use was discontinued.
 
 The main differentiating factors between drones and helicopter are that drones are cheaper and can be controlled remotely, meaning that the drone-operator can be off-site and the content can be captured quickly. On the other hand, helicopter use is intensive in both time and cost. The use of drone imaging would allow RegenTech to focus more funding and labour toward editing the captured images and videos to create an immersive visualisation for each prospective client.
 
-Before implementing drone use, all relevant laws and regulations would need to be considered, including privacy issues and maximum permissible height of flight.
+Before implementing drone use, all relevant laws and regulations would need to be considered, including privacy issues and maximum permissible height of flight. It is understood that no drone permit would be required for use in the given context.
 
 <br>
 
@@ -29,7 +29,8 @@ Before implementing drone use, all relevant laws and regulations would need to b
 
 Smart sensor devices interconnected via the Agricultural Internet of Things could be applied at RegenTech to obtain real-time accurate data on weather and soil conditions. The linking of real-time sensor data to the current automated irrigation and fertilisation operations would allow adaptive measures to be taken to efficiently manage resources. 
 
-The cost of acquiring high quality sensor probes for taking accurate measurements would be significant. Installation costs would also need to be covered, upon selecting suitable locations for sensor placement. There would also be costs involved with the setup of adequate software to appropriately analyse the data obtained. All of these costs would be a one-off expense for a farm. It is expected that minimal training on how to use the software would be required, leading to limited disruptions to productivity during the transition period. Additionally, a farm could choose to minimise initial setup costs by replacing legacy machines with smart machines as replacements are required. 
+The cost of acquiring high quality sensor probes for taking accurate measurements would be significant. A team of RegenTech members would need to undergo training on the installation and configuration of smart sensors with software for data analysis (likely 1-3 days of training). This may lead to slight disruptions in productivity during the transition period. RegenTech would then have to cover the labour costs of having the trained employees setup the smart-farms.
+Many of these costs would be a one-off expense for RegenTech and the clients who choose to convert their farm. It is expected that minimal training for farmers on how to use the software would be required, apart from undertaking one of RegenTech's free short courses. Additionally, a farm could choose to minimise initial setup costs by replacing legacy machines with smart machines as replacements are required. 
 
 Costs associated with the removal of smart sensors would include the labour to uninstall the sensors and re-configure any equipment. Considering the field of smart agricultural devices is expanding rapidly, it is unlikely that removal would be required. It is assumed that all of the smart machines could be used manually if needed.
 
