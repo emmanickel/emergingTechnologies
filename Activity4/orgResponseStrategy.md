@@ -26,7 +26,7 @@ Skynet Research believes that all of the above goals can be achieved through imp
 <br>
 
 ## Implementation of drones for overhead imaging
-The use of drones for overhead imaging has significant potential to change the current system of helicopter photography at RegenTech.
+The emerging practice of drone-imaging poses a powerful threat to change the current system of helicopter photography at RegenTech.
 
 RegenTech should begin trials by purchasing a small number of drones to be used for capturing overhead imaging at existing client farms over a period of 6 months. These trials should be relatively inexpensive to conduct and would not jeopardise any potential client contracts. A small number of the RegenTech team should participate in a half-day training program during which they would learn how to effectively and legally operate the drones. The visualisation team of RegenTech's planning stream should then edit the content captured by the drones to create a visualisation of the client's farm using RegenTech's technologies. These visualisations could be compared to those previously created using the existing helicopter system. Feedback from all clients involved in the trial and the involved staff at RegenTech should be gathered.
 
@@ -38,7 +38,7 @@ If the majority of feedback is found to be negative, the trial should be deemed 
 
 ## Installation of smart sensors and analysis of data obtained
 
-The use of smart sensors connected via the Agricultural IoT to gather weather and soil data has significant potential to change the current system of manual data collection at RegenTech.
+The emerging practice of using smart sensors connected via the Agricultural IoT to gather weather and soil data poses a significant threat to the current system of manual data collection at RegenTech.
 
 RegenTech should trial the use of smart sensors by offering a subsidised trial package to existing clients who choose to particpate in the program.
 All required equipment should then be purchased for participating clients. A small team of personnel from RegenTech should undertake a single day training session to learn the installation and setup process of the smart sensor system. This team should then install trial sensor probes and configure software for appropriate data analysis. The participating clients must undertake a short online course offered by RegenTech (see the third practice outlined in this report) which explains how to operate and manage their new 'smart farm'. After the 1 year trial period, feedback from all clients engaged in the trial and the RegenTech staff involved should be obtained.
@@ -51,14 +51,19 @@ If the feedback on the trials is mainly negative, the trial will be deemed a fai
 
 ## Implementation of video-conferencing platforms to enable the delivery of short courses
 
-The emerging practice of delivering short courses via video-conferencing poses a significant threat to RegenTech's existing system of in-person delivery.
+The opportunities created by the emerging practice of delivering short courses via video-conferencing pose a significant threat to RegenTech's existing system of in-person delivery.
 
-RegenTech should begin trialling courses over a widely-used platform such as *Zoom* for a one year period, upon purchasing a suitable membership plan.
+RegenTech should begin delivering all of their courses via a widely-used platform such as *Zoom* for a one year trial period, upon purchasing a suitable membership plan.
 Detailed student feedback should be collected in frequent increments throughout all courses conducted during the trial period. The feedback obtained should be regularly reviewed, and any relevant adjustments to the system should be made where possible. After the one year trial period, all student feedback should be reviewed, and feedback from RegenTech trainers shoudl also be gathered.
 
 If the majority of the feedback is positive, the practice will be assumed a success. RegenTech should then continue to use video-conferencing for all of their courses indefinitely. They should continue monitoring feedback and make any necessary adjustments accordingly.
 
 If the feedback obtained is predominantly negative, the trial will be deemed a failure. All courses at RegenTech should revert to their previous in-person system of delivery. Ongoing research monitoring any developments in emerging video-conferencing technologies should be conducted. Review should be undertaken in one year increments with a view to recommencing video-conferencing trials.
+
+<br>
+
+## Order of implementation
+It would be best for RegenTech to work towards implementing both the drone imaging and video-conferencing practices as soon as possible. This way, the online training courses will be up and running for the farmers to undertake in conjunction with the smart farm trials once they begin. The drone-imaging trials should be started urgently in order to reduce the unneccessary costs associated with helicopter photography. Once these two strategies are under way, RegenTech should begin offering smart sensor packages to the existing clients who are willing to participate in the subsidised program. Following the above timeline order should give RegenTech the best chance of achieving their goals within 5 years.
 
 <br>
 
